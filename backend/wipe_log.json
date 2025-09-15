@@ -1,0 +1,6 @@
+{
+  "device": "/dev/sdb",
+  "method": "Zero-fill (Quick)",
+  "status": "SUCCESS",
+  "end_time": "2025-09-15 07:47:48"
+}

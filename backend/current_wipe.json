@@ -1,0 +1,5 @@
+{
+  "device": "/dev/sdb",
+  "method": "zero",
+  "sudoPassword": "123"
+}
