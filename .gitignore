@@ -1,0 +1,13 @@
+# Ignore runtime + dependencies
+node/
+node_modules/
+
+# Ignore build outputs
+dist/
+build/
+wiper_1.0/
+*.deb
+
+# Ignore system files
+.DS_Store
+*.log

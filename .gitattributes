@@ -1,0 +1,4 @@
+node/bin/node filter=lfs diff=lfs merge=lfs -text
+wiper_1.0.deb filter=lfs diff=lfs merge=lfs -text
+wiper_1.0/opt/wiper/node/bin/node filter=lfs diff=lfs merge=lfs -text
+wiper_1.0/opt/wiper/node_modules/** filter=lfs diff=lfs merge=lfs -text
